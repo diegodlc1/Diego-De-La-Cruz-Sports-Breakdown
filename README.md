@@ -1,7 +1,7 @@
 # Diego-De-La-Cruz-Sports-Breakdown
 Hello! 
 
-My name is Diego De La Cruz. I have graduated from the University of Wisconsin-Madison studying Data Science and Economics with a Math Emphasis. I have worked in sports for the past 3 years and would like to continue doing that. This repository will be treated like my website and will be treated as a place where I write up/code my thoughts for pretty much most team sports. I have worked in College Football, College Hockey, and Soccer, as well as playing select/AAU/High School basketball for most of my childhood/teenage years. With that being said this will be a list of all the sports I will try to talk about.
+My name is Diego De La Cruz. I have graduated from the University of Wisconsin-Madison studying Data Science and Economics:Mathematical Emphasis. I have worked in sports for the past 3 years and would like to continue doing that. This repository will be treated like my website and will be treated as a place where I write up/code my thoughts for pretty much most team sports. I have worked in College Football, College Hockey, and Soccer, as well as playing select/AAU/High School basketball for most of my childhood/teenage years. With that being said this will be a list of all the sports I will try to talk about.
 
 American Football - College and NFL
 Basketball - College and NBA maybe overseas
